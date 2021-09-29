@@ -92,7 +92,7 @@ imgmath_image_format = "svg"
 html_theme = "pydata_sphinx_theme"
 html_title = f"Version {version}"
 html_favicon = "_static/img/favicon.ico"
-html_logo = "_static/img/logo.png"
+html_logo = "_static/img/logo.svg"
 html_style = "css/imbalanced-learn.css"
 html_css_files = [
     "css/imbalanced-learn.css",
